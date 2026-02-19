@@ -1,0 +1,43 @@
+NOME.TSX ----------
+
+function Nome() {
+    return(
+<>
+<p>Geovana Moura</p>
+</>
+
+
+    )
+}
+
+export default Nome
+
+EMAIL.TSX ----------
+
+function Email () {
+    return(
+<>
+<p>EMAIL: geovanaestudos123@gmail.com</p>
+</>
+
+
+    )
+}
+
+export default Email
+
+GITHUB.TSX ----------
+
+function Github () {
+    return(
+<>
+<p>GITHUB: geomour4</p>
+</>
+
+
+    )
+}
+
+export default Github
+
+
