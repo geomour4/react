@@ -1,0 +1,20 @@
+body {
+background-color: #ea7ebbaa;
+}
+a, p {
+text-decoration: none;
+font-size: 50px;
+font-family: cursive;
+cursor: pointer;
+padding: 12px;
+color: black;
+}
+h2 {
+font-size: 2.0rem;
+color: black;
+text-align: center;
+background-color: rgb(255, 255, 255);
+padding: 20px;
+}
+
+

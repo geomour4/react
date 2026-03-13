@@ -1,0 +1,17 @@
+body {
+background-color: rgb(249, 227, 240);
+}
+a, p {
+text-decoration: none;
+font-size: 30px;
+font-family: cursive;
+cursor: pointer;
+padding: 1px;
+color: black;
+}
+
+img {
+ width: 800px;
+height: 600px;
+margin-left: 600px;
+}
